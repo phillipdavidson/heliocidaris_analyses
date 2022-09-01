@@ -1,0 +1,11 @@
+category	GRN	Percentage
+DA	no	5.34
+He	no	1.6
+Ht	no	1.15
+DA_He	no	0.21
+DA_Ht	no	0.18
+DA	yes	15.56
+He	yes	6.67
+Ht	yes	0.74
+DA_He	yes	1.48
+DA_Ht	yes	0
